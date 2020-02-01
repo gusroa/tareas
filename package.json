@@ -1,0 +1,21 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "Aplicacion de tareas CRUD de practica, mongoose, bootstrap, express, nodejs, ejs, morgan  ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app",
+    "dev": "nodemon src/app"
+  },
+  "author": "gusDV",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.10",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
